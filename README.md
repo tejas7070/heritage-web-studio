@@ -54,7 +54,7 @@ npm run build
 
 ---
 
-## 📂 Project Structure
+## 📂 Complete Project Structure
 
 ```
 heritage-web-studio/

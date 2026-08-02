@@ -33,7 +33,7 @@ export default function Hero() {
             </span>
           </div>
           <span className="text-xs font-mono uppercase tracking-widest text-neutral-500 mt-2 md:mt-0">
-            LONDON / TOKYO / HYDERABAD
+            Mumbai / Navi Mumbai
           </span>
         </div>
 
